@@ -37,7 +37,8 @@
   "bloggify": {
     "config": {
       "paths": {
-        "blog": "/blog"
+        "blog": "/blog",
+        "home": "_home"
       }
     }
   },
