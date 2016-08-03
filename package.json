@@ -33,5 +33,15 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/bloggify-router/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-router#readme"
+  "homepage": "https://github.com/IonicaBizau/bloggify-router#readme",
+  "bloggify": {
+    "config": {
+      "paths": {
+        "blog": "/blog"
+      }
+    }
+  },
+  "dependencies": {
+    "regex-escape": "^3.4.2"
+  }
 }
