@@ -40,6 +40,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`bloggify-config`](https://github.com/Bloggify/bloggify-config#readme) (by Bloggify)—Helper module to create Bloggify configuration.
+ - [`bloggify-custom-app-template`](https://github.com/BloggifyTutorials/custom-app#readme)—A custom application built with @Bloggify.
  - [`bloggify-starter`](https://github.com/Bloggify/starter#readme)—A simple example of a Bloggify app.
 
 ## :scroll: License
