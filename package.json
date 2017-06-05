@@ -8,32 +8,32 @@
     "default"
   ],
   "license": "MIT",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
     "bin/",
     "app/",
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-router.git"
+    "url": "git+ssh://git@github.com/Bloggify/default-router.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-router/issues"
+    "url": "https://github.com/Bloggify/default-router/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-router#readme",
+  "homepage": "https://github.com/Bloggify/default-router#readme",
   "bloggify": {
     "config": {
       "paths": {
